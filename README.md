@@ -1,3 +1,5 @@
+Video Explanation: https://youtu.be/tKlaTVJ88Ps
+
 # CIS_5_Final_Project
 CIS 5 Final Proejct
 
