@@ -1,3 +1,5 @@
+This is a show tracker project, where you can view, edit, add, and search shows. 
+
 Video Explanation: https://youtu.be/tKlaTVJ88Ps
 
 # CIS_5_Final_Project
